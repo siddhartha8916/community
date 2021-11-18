@@ -1,0 +1,257 @@
+{
+  "tags": [
+    {
+      "id": 1,
+      "text": "BONE",
+      "color": "#6488ff"
+    },
+    {
+      "id": 2,
+      "text": "SKINCARE",
+      "color": "#e95a60"
+    },
+    {
+      "id": 3,
+      "text": "COVID-19",
+      "color": "#f9b220"
+    },
+    {
+      "id": 4,
+      "text": "HAIR",
+      "color": "#3a3d4e"
+    },
+    {
+      "id": 5,
+      "text": "EYE",
+      "color": "#e0e04c"
+    },
+    {
+      "id": 6,
+      "text": "DIABETES",
+      "color": "#38d7e4"
+    },
+    {
+      "id": 7,
+      "text": "HEART",
+      "color": "#ff649f"
+    },
+    {
+      "id": 8,
+      "text": "LUNGS",
+      "color": "#a8b0de"
+    }
+  ],
+
+  "posts": [
+    {
+      "id": 1,
+      "tags": [
+        {
+          "id": 6,
+          "text": "DIABETES",
+          "color": "#38d7e4"
+        }
+      ],
+      "title": "This is the first post title",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna. Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci. Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+      "likes": 123,
+      "dislikes": 11,
+      "createdby": [
+        {
+          "name": "Manasa Janga",
+          "position": "Lab Technician"
+        }
+      ],
+      "date": "22 March 2020",
+      "answers": ["Answer1", "Answer2", "Answer3", "Answer4"],
+      "comments": [
+        {
+          "id": 1,
+          "doneby": "Sanjana Mathur",
+          "comment": "This is a demo comment by Sanjana Mathur",
+          "date": "22 May 2020",
+          "likes": 12,
+          "dislikes": 3
+        },
+        {
+          "id": 2,
+          "doneby": "Aryan Kumar",
+          "comment": "This is a demo comment by Aryan Kumar",
+          "date": "24 May 2020",
+          "likes": 7,
+          "dislikes": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tags": [
+        {
+          "id": 8,
+          "text": "LUNGS",
+          "color": "#a8b0de"
+        },
+        {
+          "id": 6,
+          "text": "DIABETES",
+          "color": "#38d7e4"
+        }
+      ],
+      "title": "This is the second post title",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna. Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci. Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+      "likes": 123,
+      "dislikes": 11,
+      "createdby": [
+        {
+          "name": "Shubham Janga",
+          "position": "Developer Technician"
+        }
+      ],
+      "date": "22 March 2020",
+      "answers": ["Answer1", "Answer2", "Answer3", "Answer4"],
+      "comments": [
+        {
+          "id": 1,
+          "doneby": "Sanjana Mathur",
+          "comment": "This is a demo comment by Sanjana Mathur",
+          "date": "22 May 2020",
+          "likes": 12,
+          "dislikes": 3
+        },
+        {
+          "id": 2,
+          "doneby": "Aryan Kumar",
+          "comment": "This is a demo comment by Aryan Kumar",
+          "date": "24 May 2020",
+          "likes": 7,
+          "dislikes": 1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tags": [
+        {
+          "id": 3,
+          "text": "COVID-19",
+          "color": "#f9b220"
+        }
+      ],
+      "title": "This is the third post title",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna. Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci. Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+      "likes": 123,
+      "dislikes": 11,
+      "createdby": [
+        {
+          "name": "Manasa Janga",
+          "position": "Lab Technician"
+        }
+      ],
+      "date": "22 March 2020",
+      "answers": ["Answer1", "Answer2", "Answer3", "Answer4"],
+      "comments": [
+        {
+          "id": 1,
+          "doneby": "Sanjana Mathur",
+          "comment": "This is a demo comment by Sanjana Mathur",
+          "date": "22 May 2020",
+          "likes": 12,
+          "dislikes": 3
+        },
+        {
+          "id": 2,
+          "doneby": "Aryan Kumar",
+          "comment": "This is a demo comment by Aryan Kumar",
+          "date": "24 May 2020",
+          "likes": 7,
+          "dislikes": 1
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tags": [
+        {
+          "id": 7,
+          "text": "HEART",
+          "color": "#ff649f"
+        }
+      ],
+      "title": "This is the fourth post title",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna. Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci. Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+      "likes": 123,
+      "dislikes": 11,
+      "createdby": [
+        {
+          "name": "Manasa Janga",
+          "position": "Lab Technician"
+        }
+      ],
+      "date": "22 March 2020",
+      "answers": ["Answer1", "Answer2", "Answer3", "Answer4"],
+      "comments": [
+        {
+          "id": 1,
+          "doneby": "Sanjana Mathur",
+          "comment": "This is a demo comment by Sanjana Mathur",
+          "date": "22 May 2020",
+          "likes": 12,
+          "dislikes": 3
+        },
+        {
+          "id": 2,
+          "doneby": "Aryan Kumar",
+          "comment": "This is a demo comment by Aryan Kumar",
+          "date": "24 May 2020",
+          "likes": 7,
+          "dislikes": 1
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "tags": [
+        {
+          "id": 8,
+          "text": "LUNGS",
+          "color": "#a8b0de"
+        },
+        {
+          "id": 6,
+          "text": "DIABETES",
+          "color": "#38d7e4"
+        }
+      ],
+      "title": "This is the fifth post title",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna. Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci. Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+      "likes": 123,
+      "dislikes": 11,
+      "createdby": [
+        {
+          "name": "Manasa Janga",
+          "position": "Lab Technician"
+        }
+      ],
+      "date": "22 March 2020",
+      "answers": ["Answer1", "Answer2", "Answer3", "Answer4"],
+      "comments": [
+        {
+          "id": 1,
+          "doneby": "Sanjana Mathur",
+          "comment": "This is a demo comment by Sanjana Mathur",
+          "date": "22 May 2020",
+          "likes": 12,
+          "dislikes": 3
+        },
+        {
+          "id": 2,
+          "doneby": "Aryan Kumar",
+          "comment": "This is a demo comment by Aryan Kumar",
+          "date": "24 May 2020",
+          "likes": 7,
+          "dislikes": 1
+        }
+      ]
+    }
+  ]
+}

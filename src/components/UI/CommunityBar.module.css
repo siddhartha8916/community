@@ -1,0 +1,13 @@
+.community{
+  margin-left: 50px;
+  display: flex;
+  align-items:center ;
+}
+
+.text{
+  color: #2b0658;
+  font-size: 20px;
+  font-weight: 700;
+  margin-right: 20px;
+}
+

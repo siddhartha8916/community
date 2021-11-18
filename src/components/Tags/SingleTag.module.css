@@ -1,0 +1,9 @@
+.tag{
+  font-size: 10px;
+  border-radius: 20px;
+  padding: 6px 18px;
+  color: white;
+  margin-left: 3px;
+  margin-right: 3px;
+  cursor: pointer;
+}

@@ -1,0 +1,22 @@
+.button{
+  background: none;
+  border:none;
+  font-size: 10px;
+  font-weight: 600;
+  color: white;
+  background-color: #f8a51e;
+  padding: 8px 18px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center ;
+  max-width: 9rem;
+  cursor: pointer;
+}
+
+.icon{
+  position: relative;
+  color: white;
+  margin-right: 4px;
+  font-size: 18px;
+}

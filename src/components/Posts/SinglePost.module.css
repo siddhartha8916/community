@@ -1,0 +1,66 @@
+.title{
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 30px;
+}
+
+.description{
+  font-size: 13px;
+  line-height: 20px;
+}
+
+
+.like-number{
+  font-size: 13px;
+  color: rgb(117, 117, 117);
+}
+
+.readmore{
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: rgb(117, 117, 117);
+}
+
+
+.status-bar{
+  display: flex;
+  align-items: center;
+  margin-top: 8px;
+}
+
+.report-section{
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+}
+
+.bookmark{
+  margin-left: 10px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.share{
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.card{
+  border-bottom: 1px solid #ccc;
+}
+
+.focus{
+  border: 3px solid #2b0658;
+  border-radius: 10px;
+}
+
+.tag{
+  font-size: 10px;
+  border-radius: 20px;
+  padding: 6px 18px;
+  color: white;
+  margin-left: 3px;
+  margin-right: 3px;
+  cursor: pointer;
+}

@@ -1,0 +1,60 @@
+.header-container{
+  position: sticky;
+  top: 0;
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(255, 255, 255);
+  height: 4rem;
+  border: 1px solid #ccc;
+  box-shadow: 0 1px 15px #888888;
+}
+
+.searchbar{
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 10px;
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  height: 2rem;
+}
+
+.notification-avatar{
+  display: flex;
+  align-items: center;
+  margin-right: 20px;
+}
+
+.notification{
+  margin-right: 10px;
+  font-size: 20px;
+}
+
+.avatar img{
+  margin-right: 5px;
+  height: 30px;
+}
+
+
+.icon{
+  margin-left: 10px;
+}
+
+
+input[type=text] {
+  width: 40rem;
+  padding: 8px 15px;
+  border: none;
+  background-color: transparent;
+}
+
+input[type=text]:focus{
+  outline: none;
+}
+
+::placeholder {
+  color: #ccc;
+  font-size:14px;
+}
+

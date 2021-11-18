@@ -1,0 +1,65 @@
+.comment-details-group{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.comment-card{
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.comment-name-image{
+  display: flex;
+  align-items: center;
+  max-width: 10rem;
+}
+
+.image{
+  width: 30px;
+  height: auto;
+}
+
+.description{
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.name{
+  margin-left: 10px;
+  color: #2b0658;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.date{
+  text-align: end;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.status-bar{
+  display: flex;
+  align-items: center;
+}
+
+.report{
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: rgb(117, 117, 117);
+  font-size: 13px
+}
+
+.like-number{
+  margin-right: 10px;
+}
+
+.dislike-number{
+  margin-right: 10px;
+}
+
+.reply-number{
+  margin-right: 10px;
+}

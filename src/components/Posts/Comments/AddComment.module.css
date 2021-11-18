@@ -1,0 +1,42 @@
+.comment-group{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 12px;
+}
+
+.comment-input-group{
+  display: flex;
+  align-items: center;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  margin-right: 1rem;
+  max-width: 33rem;
+
+}
+
+.comment-button{
+  border: none;
+  background: none;
+  background-color: #2b0658;
+  color: white;
+  padding: 13px 15px;
+  border-radius: 10px;
+  width: 9rem;
+  cursor: pointer;
+  font-size: 12px;
+  font-weight: 600;
+  text-align: left;
+}
+
+.comment-button:disabled{
+  background-color: #ccc;
+}
+
+.image {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  margin-left: 10px;
+}
